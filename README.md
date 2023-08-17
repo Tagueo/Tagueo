@@ -1,4 +1,4 @@
-###  Hey everyone, I'm Sandeep Mewara! 👋
+###  Hey everyone ! 👋
 
 [![visits Badge](https://badges.pufler.dev/visits/sandeep-mewara/sandeep-mewara)](https://badges.pufler.dev/visits/sandeep-mewara/sandeep-mewara)
 
